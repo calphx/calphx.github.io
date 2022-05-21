@@ -8,7 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Alex get up!!!!!!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You've been sleeping for 11 hours, and it's almost 2pm for you. 
+And you misspelled Hellaur...
 
 ```markdown
 Syntax highlighted code block
