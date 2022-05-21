@@ -1,4 +1,4 @@
-# Happy 520, I love you Carol! -- Alex
+# Happy 520, I love my mom! -- Alex
 
 You can use the [editor on GitHub](https://github.com/phxSymphony/phxSymphony.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
