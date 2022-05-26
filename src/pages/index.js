@@ -81,10 +81,10 @@ const badgeStyle = {
 // data
 const links = [
   {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial/",
+    text: "Spring",
+    url: "https://www.bilibili.com/video/BV1RF411T7HV?spm_id_from=333.999.0.0",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "A great place to get started if you're new to web developmentSpring is a well-known Chinese Orchestra piece written by Lo Leung-Fai in 1979, as the first piece of his four-season suite.",
     color: "#E95800",
   },
   {
